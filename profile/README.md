@@ -1,5 +1,3 @@
-![Technogix logo](docs/imgs/logo.png)
-
 # Technogix
 
 Technogix is a freelance french company specialized in Development & DevSecOps in virtualized infrastructures.
@@ -13,6 +11,6 @@ The current organization contains the key development performed by Technogix, th
 
 * [Technogix terraform](https://github.com/technogix-terraform) contains all the terraform modules used to standardize the secure element we use when developing our solutions.
 
-## Contact
+# Contact
 
 Nadege LEMPERIERE - nadege.lemperiere@technogix.io
