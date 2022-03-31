@@ -13,4 +13,4 @@ The current organization contains the key development performed by Technogix, th
 
 # Contact
 
-Nadege LEMPERIERE - nadege.lemperiere@technogix.io
+Nadege LEMPERIERE - contact.technogix@gmail.com
